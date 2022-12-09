@@ -1,0 +1,7 @@
+POST https://localhost:5001/api/usuario/cadastrar
+Content-Type: application/json
+
+{
+    "nome" : "Bento",
+    "Datanasc" : "25/03/2002"
+}
